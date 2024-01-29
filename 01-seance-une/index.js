@@ -27,7 +27,6 @@ function sum (x,y){
 }
 console.log(sum(12,30))
 
-
 function inscrire(){
     let nom="AAAA"
     let prenom="samih"
@@ -36,6 +35,9 @@ function inscrire(){
         let statut="etudiant"
         console.log(statut)
     }
-
 }
+
+
+
+
 inscrire()
